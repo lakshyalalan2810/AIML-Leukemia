@@ -1,0 +1,72 @@
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-temp/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments and packaging
+.venv/
+venv/
+env/
+ENV/
+dist/
+build/
+*.egg-info/
+
+# Credentials and local configuration
+.env
+.env.*
+*.env
+
+# User and system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dataset images and caches
+data/raw/
+data/cache/
+data/cnmc/cnmc_dataset_inspection.json
+data/cnmc/cnmc_inventory.csv
+data/cnmc/cnmc_subject_map.json
+
+# ALL-IDB preparation outputs not needed by the locked loaders
+data/allidb1/*_audit.json
+data/allidb1/*_status.json
+data/allidb1/*_inventory.csv
+data/allidb1/*_exact_duplicates.csv
+data/allidb1/*_near_duplicates.csv
+data/allidb2/*_audit.json
+data/allidb2/*_status.json
+data/allidb2/*_inventory.csv
+data/allidb2/*_exact_duplicates.csv
+data/allidb2/*_near_duplicates.csv
+data/allidb2/*_parent_map.csv
+data/allidb2/*_parent_map_summary.json
+
+# Generated model artifacts and reports
+outputs/
+runs/
+logs/
+checkpoints/
+reports/
+md files/reports/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.log
+*.tmp
+*.temp
+*.lock
+
+# Internal or temporary work folders, if created locally
+certificate_relocation_backup*/
+cleanup_audit/
+

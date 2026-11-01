@@ -1,0 +1,1583 @@
+{
+  "dataset": "allidb2",
+  "decision_sha256": "9F29D261F5A559DF7208FC01E570C1967732787506C5C97EFC9800D9AF3EF742",
+  "decision_version": "allidb_eligibility_v1",
+  "decisions": [
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000001"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000002"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000003"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000004"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000005"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000006"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000007"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000008"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000009"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000010"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000011"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000012"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000013"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000014"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000015"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000016"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000017"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000018"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000019"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000020"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000021"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000022"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000023"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000024"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000025"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000026"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000027"
+    },
+    {
+      "decision": "RESTORED_ELIGIBLE",
+      "eligible": true,
+      "reason": "DISTINCT_SAMPLE_DIFFERENT_PARENT_FROM_allidb2_000031",
+      "sample_id": "allidb2_000028"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000029"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000030"
+    },
+    {
+      "decision": "RESTORED_ELIGIBLE",
+      "eligible": true,
+      "reason": "DISTINCT_SAMPLE_DIFFERENT_PARENT_FROM_allidb2_000028",
+      "sample_id": "allidb2_000031"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000032"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000033"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000034"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000035"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000036"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000037"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000038"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000039"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000040"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000041"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000042"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000043"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000044"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000045"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000046"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000047"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000048"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000049"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000050"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000051"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000052"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000053"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000054"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000055"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000056"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000057"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000058"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000059"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000060"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000061"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000062"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000063"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000064"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000065"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000066"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000067"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000068"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000069"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000070"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000071"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000072"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000073"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000074"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000075"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000076"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000077"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000078"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000079"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000080"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000081"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000082"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000083"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000084"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000085"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000086"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000087"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000088"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000089"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000090"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000091"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000092"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000093"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000094"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000095"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000096"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000097"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000098"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000099"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000100"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000101"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000102"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000103"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000104"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000105"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000106"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000107"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000108"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000109"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000110"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000111"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000112"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000113"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000114"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000115"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000116"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000117"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000118"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000119"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000120"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000121"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000122"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000123"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000124"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000125"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000126"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000127"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000128"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000129"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000130"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000131"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000132"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000133"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000134"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000135"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000136"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000137"
+    },
+    {
+      "decision": "RESTORED_ELIGIBLE",
+      "eligible": true,
+      "reason": "DISTINCT_SAMPLE_DIFFERENT_PARENT_FROM_allidb2_000146",
+      "sample_id": "allidb2_000138"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000139"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000140"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000141"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000142"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000143"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000144"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000145"
+    },
+    {
+      "decision": "RESTORED_ELIGIBLE",
+      "eligible": true,
+      "reason": "DISTINCT_SAMPLE_DIFFERENT_PARENT_FROM_allidb2_000138",
+      "sample_id": "allidb2_000146"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000147"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000148"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000149"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000150"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000151"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000152"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000153"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000154"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000155"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000156"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000157"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000158"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000159"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000160"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000161"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000162"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000163"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000164"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000165"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000166"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000167"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000168"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000169"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000170"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000171"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000172"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000173"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000174"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000175"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000176"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000177"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000178"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000179"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000180"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000181"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000182"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000183"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000184"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000185"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000186"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000187"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000188"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000189"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000190"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000191"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000192"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000193"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000194"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000195"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000196"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000197"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000198"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000199"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000200"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000201"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000202"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000203"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000204"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000205"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000206"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000207"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000208"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000209"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000210"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000211"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000212"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000213"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000214"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000215"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000216"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000217"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000218"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000219"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000220"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000221"
+    },
+    {
+      "decision": "RESTORED_ELIGIBLE",
+      "eligible": true,
+      "reason": "CANONICAL_REPRESENTATIVE_OF_CONFIRMED_SAME_SOURCE_CONTENT",
+      "sample_id": "allidb2_000222"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000223"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000224"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000225"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000226"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000227"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000228"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000229"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000230"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000231"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000232"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000233"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000234"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000235"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000236"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000237"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000238"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000239"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000240"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000241"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000242"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000243"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000244"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000245"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000246"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000247"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000248"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000249"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000250"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000251"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000252"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000253"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000254"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000255"
+    },
+    {
+      "decision": "EXCLUDED",
+      "eligible": false,
+      "reason": "CONFIRMED_SAME_SOURCE_CONTENT_REDUNDANCY_WITH_allidb2_000222",
+      "sample_id": "allidb2_000256"
+    },
+    {
+      "decision": "EXCLUDED",
+      "eligible": false,
+      "reason": "EXACT_DUPLICATE_OF_allidb2_000223",
+      "sample_id": "allidb2_000257"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000258"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000259"
+    },
+    {
+      "decision": "ELIGIBLE",
+      "eligible": true,
+      "reason": "APPROVED_CANONICAL_SAMPLE",
+      "sample_id": "allidb2_000260"
+    }
+  ],
+  "inventory_sha256": "2276FC95FBCFBA81C8A8C0DF50F04B61EF45CA985343186F50C58FE76D36680C",
+  "parent_map_sha256": "F04D6DE9F6B8C6C3542CC8A77B0D77411E5901B2CC4FE47CE50ADFB6BD73841B",
+  "source_evidence": [
+    {
+      "path": "data/allidb2/allidb2_exact_duplicates.csv",
+      "sha256": "6980AEF55DB96A9955C3841F9D816E493DD68BE52B262136CF04F673C5E85D11"
+    },
+    {
+      "path": "data/allidb2/allidb2_near_duplicates.csv",
+      "sha256": "638E0A6CAACCC2466DBA526744C4CB66C31E3D8C4CCF25B99601F37B27DEDD9A"
+    },
+    {
+      "path": "data/allidb2/allidb2_parent_map.csv",
+      "sha256": "F04D6DE9F6B8C6C3542CC8A77B0D77411E5901B2CC4FE47CE50ADFB6BD73841B"
+    }
+  ]
+}
