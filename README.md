@@ -8,6 +8,13 @@ This research code compares two ImageNet-pretrained models on three acute lympho
 
 The repository contains the implementation and non-image protocol manifests required by the loaders. **Dataset files are not included in this repository.** **Trained checkpoints are not included in this public source-code release.**
 
+## Analysis reports
+
+- [Complete analysis](docs/Leukemia_Classification_Complete_Analysis.html)
+- [Results report from 13 September 2026](docs/results_13_09.html)
+
+These HTML reports include research results and embedded figures, including microscopy examples. Download them and open them in a browser to view the rendered reports.
+
 ## Project highlights
 
 - ConvNeXtV2-Tiny (`convnextv2_tiny.fcmae_ft_in1k`), input size 224 × 224
@@ -24,7 +31,7 @@ This repository is for research and education. It is **not a medical device or c
 
 ## Repository structure
 
-The export contains this code and the small protocol files needed by the loaders. Raw images and generated model results are absent.
+The export contains this code, protocol files needed by the loaders, and the analysis reports linked above. Standalone dataset images and generated model artifacts are absent.
 
 ~~~text
 AIML_Leukemia_GitHub/
@@ -171,7 +178,7 @@ The evaluation script combines the five saved OOF folds for both models, validat
 python scripts/analyze_oof.py --dataset cnmc --seed 42 --threshold 0.5
 ~~~
 
-This requires completed fits and their OOF predictions; it does not recreate or include research results. Supported metrics include accuracy, balanced accuracy, sensitivity, specificity, precision, F1, MCC, ROC-AUC, PR-AUC, NLL, Brier score, and 10-bin ECE. C-NMC subject-level and ALL-IDB2 parent-field aggregation are also supported.
+This requires completed fits and their OOF predictions; the raw prediction files are not included. Supported metrics include accuracy, balanced accuracy, sensitivity, specificity, precision, F1, MCC, ROC-AUC, PR-AUC, NLL, Brier score, and 10-bin ECE. C-NMC subject-level and ALL-IDB2 parent-field aggregation are also supported.
 
 ## Live image prediction
 
